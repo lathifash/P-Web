@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thifa's Pastry</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Selamat Datang di Thifa's Pastry</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Beranda</a></li>
+                <li><a href="#">Produk</a></li>
+                <li><a href="#">Kontak</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="produk">
+        <h2>Produk Terbaru</h2>
+        <div class="produk-item">
+            <img src="cake1.jpg" alt="Kue 1">
+            <h3>Kue Coklat</h3>
+            <p>Harga: Rp 25.000</p>
+        </div>
+        <div class="produk-item">
+            <img src="cake2.jpg" alt="Kue 2">
+            <h3>Kue Strawberry</h3>
+            <p>Harga: Rp 30.000</p>
+        </div>
+        <div class="produk-item">
+            <img src="cake3.jpg" alt="Kue 3">
+            <h3>Kue Keju</h3>
+            <p>Harga: Rp 30.000</p>
+        </div>
+    </section>
+
+    <section class="kontak">
+        <h2>Hubungi Kami</h2>
+        <p>Jika Anda memiliki pertanyaan atau pesanan khusus, silakan hubungi kami di:</p>
+        <address>
+            Email: <a href="mailto:lathifahshd@gmail.com">lathifahshd@gmail.com/a><br>
+            Telepon: <a href="tel:+6282289810615">+62 822 8981 0615</a>
+        </address>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Toko Kue Online. All What You Need.</p>
+    </footer>
+</body>
+</html>
